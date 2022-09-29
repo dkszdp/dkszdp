@@ -10,4 +10,4 @@ Soy **dkszdp** un estudiante y aprendiz de ***Desarrollo de Aplicaciones Web***.
 
 
 ## **🏆TROFEOS🏆**  
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dkszdp" alt="dkszdp" /></a> 
+<img src="https://github-profile-trophy.vercel.app/?username=dkszdp" alt="dkszdp" /></a> 
