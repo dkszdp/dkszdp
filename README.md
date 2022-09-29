@@ -11,4 +11,4 @@ Soy **dkszdp** un estudiante y aprendiz de ***Desarrollo de Aplicaciones Web***.
 </div>    
 
 ## **🏆 TROFEOS 🏆**  
-<img src="https://github-profile-trophy.vercel.app/?username=dkszdp" alt="dkszdp" /></a> 
+<img src="https://github-profile-trophy.vercel.app/?username=dkszdp" alt="dkszdp" /></a>  
