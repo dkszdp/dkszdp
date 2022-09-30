@@ -12,7 +12,6 @@ Soy **dkszdp** un estudiante y aprendiz de ***Desarrollo de Aplicaciones Web*** 
 ㅤ
 
 <img align="right" src="https://img.shields.io/github/followers/dkszdp?color=%2348A3DD&label=Seguidores" alt="dkszdp" />  
-ㅤ
 
 ## **🏆 Trofeos 🏆**  
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=dkszdp" alt="dkszdp" />  
