@@ -9,6 +9,7 @@ Soy **dkszdp** un estudiante y aprendiz de ***Desarrollo de Aplicaciones Web*** 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dkszdp&show_icons=true&theme=dark&title_color=4db2f3&text_color=ffffff&bg_color=0a0c10&hide_border=true&locale=es&layout=compact" alt="dkszdp" />   
 </div>  
+ㅤ
 
 <img align="right" src="https://img.shields.io/github/followers/dkszdp?color=%2348A3DD&label=Seguidores" alt="dkszdp" />  
 ㅤ
