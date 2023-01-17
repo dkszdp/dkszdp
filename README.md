@@ -12,7 +12,7 @@ Me llamo **David** aka **dkszdp**, y soy estudiante de ***Desarrollo de Aplicaci
 
 <img height=170 align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=dkszdp&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=es&layout=compact" alt="dkszdp most used languajes" />
 
-<img height=170 align="" src="https://github-readme-streak-stats.herokuapp.com?user=dkszdp&theme=dark&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="dkszdp github streak" />
+<img height=170 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=dkszdp&theme=dark&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="dkszdp github streak" />
 
 ## Trofeos 🏆
 
