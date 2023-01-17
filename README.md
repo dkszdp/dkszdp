@@ -4,7 +4,9 @@ Me llamo **David** aka **dkszdp**, y soy estudiante de ***Desarrollo de Aplicaci
 
 <img align="center" src="./img/NuevoBanner-dkszdp.png" alt="banner" style="border-radius: 4px" />
 
-![dkszdp github profile views](https://komarev.com/ghpvc/?username=dkszdp&label=Visitas%20al%20perfil&color=202020&style=flat)
+![dkszdp github profile views](https://komarev.com/ghpvc/?username=dkszdp&label=Visitas%20al%20perfil&color=202020&style=for-the-badge)
+
+[![☕ - Buy me a coffee](https://img.shields.io/badge/☕-Buy_me_a_coffee-202020?style=for-the-badge)](https://www.buymeacoffee.com/dkszdp)
 
 ## Estadísticas 📊
 
@@ -18,7 +20,7 @@ Me llamo **David** aka **dkszdp**, y soy estudiante de ***Desarrollo de Aplicaci
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=dkszdp&theme=discord&no-frame=true&row=2&column=3&margin-w=5&margin-h=5" alt="dkszdp trophies"/></p>
 
-![dkszdp github stars](https://img.shields.io/github/stars/dkszdp?color=202020&label=Estrellas)
+![dkszdp github stars](https://img.shields.io/github/stars/dkszdp?color=202020&label=Estrellas&style=for-the-badge)
 
 ## Habilidades 🎓
 
