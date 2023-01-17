@@ -1,22 +1,22 @@
 # Hola, bienvenido a mi perfil!
 
-Me llamo **David** aka **dkszdp**, y soy estudiante de ***Desarrollo de Aplicaciones Web***. Creador de **@DKSZP-ORG**
+Me llamo **David** aka **dkszdp**, y soy estudiante de ***Desarrollo de Aplicaciones Web***. Creador de **DKSZP-ORG**
 
-![banner](./img/NuevoBanner-dkszdp.png)
+<img align="center" src="./img/NuevoBanner-dkszdp.png" alt="banner" style="border-radius: 4px" />
 
 ![dkszdp github profile views](https://komarev.com/ghpvc/?username=dkszdp&label=Visitas%20al%20perfil&color=202020&style=flat)
 
 ## Estadísticas 📊
 
-![dkszdp github stats](https://github-readme-stats.vercel.app/api?username=dkszdp&hide_border=true&show_icons=true&theme=dark&locale=es)
+<img height=170 align="left" src="https://github-readme-stats.vercel.app/api?username=dkszdp&hide_border=true&show_icons=true&theme=dark&locale=es" alt="dkszdp github stats" />
 
-![dkszdp most used languajes](https://github-readme-stats.vercel.app/api/top-langs?username=dkszdp&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=es&layout=compact)
+<img height=170 align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=dkszdp&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=es&layout=compact" alt="dkszdp most used languajes" />
 
-![dkszdp github Streak](https://github-readme-streak-stats.herokuapp.com?user=dkszdp&theme=dark&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly)
+<img height=170 align="" src="https://github-readme-streak-stats.herokuapp.com?user=dkszdp&theme=dark&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="dkszdp github streak" />
 
 ## Trofeos 🏆
 
-![dkszdp trophies](https://github-profile-trophy.vercel.app/?username=dkszdp&theme=discord&no-frame=true&row=2&column=3&margin-w=5&margin-h=5)
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=dkszdp&theme=discord&no-frame=true&row=2&column=3&margin-w=5&margin-h=5" alt="dkszdp trophies"/></p>
 
 ![dkszdp github stars](https://img.shields.io/github/stars/dkszdp?color=202020&label=Estrellas)
 
