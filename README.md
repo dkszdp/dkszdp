@@ -16,7 +16,7 @@ Me llamo **David** aka **dkszdp**, y soy estudiante de ***Desarrollo de Aplicaci
 
 ## Trofeos 🏆
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=dkszdp&theme=discord&no-frame=true&row=2&column=3&margin-w=5&margin-h=5" alt="dkszdp trophies"/></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=dkszdp&theme=discord&no-frame=true&margin-w=5" alt="dkszdp trophies"/></p>
 
 ## Habilidades 🎓
 
