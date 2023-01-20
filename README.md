@@ -6,6 +6,10 @@ Me llamo **David** aka **dkszdp**, y soy estudiante de ***Desarrollo de Aplicaci
 
 ![dkszdp github profile views](https://komarev.com/ghpvc/?username=dkszdp&label=Visitas%20al%20perfil&color=202020&style=for-the-badge) ![dkszdp github stars](https://img.shields.io/github/stars/dkszdp?color=202020&label=Estrellas&style=for-the-badge) [![☕ - Buy me a coffee](https://img.shields.io/badge/☕-Buy_me_a_coffee-202020?style=for-the-badge)](https://www.buymeacoffee.com/dkszdp)
 
+## Traducciones
+
+<kbd>[<img title="Ingles" alt="Ingles" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/gb.svg" width="22">](./translations/README-ing.md)</kbd>
+
 ## Estadísticas 📊
 
 <img height=170 align="left" src="https://github-readme-stats.vercel.app/api?username=dkszdp&hide_border=true&show_icons=true&theme=dark&locale=es" alt="dkszdp github stats" />
